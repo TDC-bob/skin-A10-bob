@@ -1,24 +1,21 @@
 livery = {
-	{"uh1_main_dam", 0, "tdc_camo_bob", false};
-	{"uh1_main_dam", 2, "uh1_spec.bmp", true};
-	{"uh1_tail_dam", 0, "tdc_camo_bob_tail", false};
-	{"uh1_tail_dam", 2, "uh1_tail_spec.bmp", true};
-	{"uh1_main", 0, "tdc_camo_bob", false};
-	{"uh1_main", 2, "uh1_spec.bmp", true};
-	{"uh1_tail", 0, "tdc_camo_bob_tail", false};
-	{"uh1_tail", 2, "uh1_tail_spec.bmp", true};	
-	{"uh1_weapon", 0, "uh1_weapon.bmp", true};
-	{"pilot_UH1", 0, "pilot_UH1.bmp", true};
-	{"pilot_UH1_helmet", 0, "pilot_UH1_helmet_B.bmp", true};
-	{"pilot_UH1_patch", 0, "pilot_UH1_patch_1_cavalery.tga", true};
-	{"Gunner_UH1", 0, "gunner_UH1.bmp", true};
-	{"uh1_cov", 0, "uh1_cover.bmp", true};
-	{"UH1-cpt-door", 0 ,"UH1_door_c",true};
-	{"UH1-cpt_karkas", 0 ,"UH1_karkas_c",true};
-	{"UH1-cpt_karkas2", 0 ,"UH1_karkas2_c",true};
-	{"UH1-cpt_panel", 0 ,"UH1_panel_c",true};
-	{"UH1-cpt_central_box", 0 ,"UH1_boxs_c",true};
-	{"UH1-cpt_dev2", 0 ,"UH1_dev_2",true};
-}
+	{"A-10C_PAINT_1-a", 0 ,"A-10C_tdc-abob",false};
+	{"A-10C_PAINT_1-b", 0 ,"A-10C_tdc-bbob",false};
+	{"A-10C_PAINT_1-c", 0 ,"A-10C_tdc-cbob",false};
+	{"A-10C_PAINT_1-d", 0 ,"A-10C_tdc-dbob",false};
+	{"A-10C_PAINT_1-e", 0 ,"A-10C_tdc-e",true};
+	{"A-10C_PAINT_1-f", 0 ,"A-10C_tdc-f",true};
+	{"A-10C_PAINT_1-g", 0 ,"A-10C_tdc-gbob",false};
+	{"A-10C_PAINT_1-h", 0 ,"A-10C_tdc-hbob",false};
+	{"A-10C_PAINT_1-i", 0 ,"A-10C_tdc-i",true};
+	{"A-10C_PAINT_1-j", 0 ,"A-10C_tdc-j",true};
+	{"A-10C_PAINT_1-k", 0 ,"A-10C_tdc-kbob",false};
+	{"A-10C_PAINT_1-L", 0 ,"A-10C_tdc-Lbob",false};
+	{"A-10_Number", 0 ,"TactNumbers-USAF-Light_black",true};
+	{"A-10_Number_Noze_F", 0 ,"empty",true};
+	{"A-10_Number_Noze_T", 0 ,"TactNumbers-USAF-Light_black",true};
+	{"A-10_Number_Wheel", 0 ,"TactNumbers-USAF-Light_black",true};
 
-countries = {"USA"}
+
+}
+countries = {"USA", "BEL", "CAN", "FRA"}
